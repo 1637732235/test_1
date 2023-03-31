@@ -43,8 +43,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "判断闰年", "判断闰�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1015和+平方和+倒数和", "1015和+平方和+倒数和\1015和+平方和+倒数和.vcxproj", "{042E41EE-FF4A-40F5-9986-FF8854524D4F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ASCII", "ASCII\ASCII.vcxproj", "{2DC40208-9757-4852-B61D-6F9EB39D123E}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "越界访问", "越界访问\越界访问.vcxproj", "{23BE4217-F687-4CBB-91E8-72E85C29FBC2}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1008成绩评定", "1008成绩评定\1008成绩评定.vcxproj", "{C09640D0-27B2-4AC5-AF24-61BBB3762E11}"
@@ -221,14 +219,6 @@ Global
 		{042E41EE-FF4A-40F5-9986-FF8854524D4F}.Release|x64.Build.0 = Release|x64
 		{042E41EE-FF4A-40F5-9986-FF8854524D4F}.Release|x86.ActiveCfg = Release|Win32
 		{042E41EE-FF4A-40F5-9986-FF8854524D4F}.Release|x86.Build.0 = Release|Win32
-		{2DC40208-9757-4852-B61D-6F9EB39D123E}.Debug|x64.ActiveCfg = Debug|x64
-		{2DC40208-9757-4852-B61D-6F9EB39D123E}.Debug|x64.Build.0 = Debug|x64
-		{2DC40208-9757-4852-B61D-6F9EB39D123E}.Debug|x86.ActiveCfg = Debug|Win32
-		{2DC40208-9757-4852-B61D-6F9EB39D123E}.Debug|x86.Build.0 = Debug|Win32
-		{2DC40208-9757-4852-B61D-6F9EB39D123E}.Release|x64.ActiveCfg = Release|x64
-		{2DC40208-9757-4852-B61D-6F9EB39D123E}.Release|x64.Build.0 = Release|x64
-		{2DC40208-9757-4852-B61D-6F9EB39D123E}.Release|x86.ActiveCfg = Release|Win32
-		{2DC40208-9757-4852-B61D-6F9EB39D123E}.Release|x86.Build.0 = Release|Win32
 		{23BE4217-F687-4CBB-91E8-72E85C29FBC2}.Debug|x64.ActiveCfg = Debug|x64
 		{23BE4217-F687-4CBB-91E8-72E85C29FBC2}.Debug|x64.Build.0 = Debug|x64
 		{23BE4217-F687-4CBB-91E8-72E85C29FBC2}.Debug|x86.ActiveCfg = Debug|Win32
