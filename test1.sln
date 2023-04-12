@@ -35,7 +35,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1014阶乘求和", "1014阶
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1016水仙花数", "1016水仙花数\1016水仙花数.vcxproj", "{F2CA04A9-DDF7-4A01-903E-CA897C8F6D77}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1017 一个数=因数和", "1017完数的判断\1017完数的判断.vcxproj", "{3A90E28E-84BB-4991-A4E3-D52A10B56963}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1017一个数=因数和", "1017完数的判断\1017完数的判断.vcxproj", "{3A90E28E-84BB-4991-A4E3-D52A10B56963}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1005温度转换", "1005温度转换\5-温度转换.vcxproj", "{290AA7AB-A2B4-434E-93A7-86A90A57348E}"
 EndProject
@@ -50,6 +50,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1013求2+22--22222", "1013求2+22--22222\1013求2+22--22222.vcxproj", "{A079A631-AD06-4F0C-9D56-8FC3126B5049}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数组拷贝", "数组拷贝\数组拷贝.vcxproj", "{05121E22-1162-4A65-82BF-FFAC867DF9A9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1018有规律的数列求和", "1018有规律的数列求和\1018有规律的数列求和.vcxproj", "{201EDEF2-FC31-42A1-8ACB-92E78C905732}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -251,6 +253,14 @@ Global
 		{05121E22-1162-4A65-82BF-FFAC867DF9A9}.Release|x64.Build.0 = Release|x64
 		{05121E22-1162-4A65-82BF-FFAC867DF9A9}.Release|x86.ActiveCfg = Release|Win32
 		{05121E22-1162-4A65-82BF-FFAC867DF9A9}.Release|x86.Build.0 = Release|Win32
+		{201EDEF2-FC31-42A1-8ACB-92E78C905732}.Debug|x64.ActiveCfg = Debug|x64
+		{201EDEF2-FC31-42A1-8ACB-92E78C905732}.Debug|x64.Build.0 = Debug|x64
+		{201EDEF2-FC31-42A1-8ACB-92E78C905732}.Debug|x86.ActiveCfg = Debug|Win32
+		{201EDEF2-FC31-42A1-8ACB-92E78C905732}.Debug|x86.Build.0 = Debug|Win32
+		{201EDEF2-FC31-42A1-8ACB-92E78C905732}.Release|x64.ActiveCfg = Release|x64
+		{201EDEF2-FC31-42A1-8ACB-92E78C905732}.Release|x64.Build.0 = Release|x64
+		{201EDEF2-FC31-42A1-8ACB-92E78C905732}.Release|x86.ActiveCfg = Release|Win32
+		{201EDEF2-FC31-42A1-8ACB-92E78C905732}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
