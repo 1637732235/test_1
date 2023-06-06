@@ -55,6 +55,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1018有规律的数列求�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1019自由下落距离", "1019自由下落距离\1019自由下落距离.vcxproj", "{2FFDA40B-16F1-43F7-AFA5-89DE48A2813D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1020猴子吃桃", "1020猴子吃桃\1020猴子吃桃.vcxproj", "{DAB9B90D-B907-41F3-BD0F-AF5E60007828}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -271,6 +273,14 @@ Global
 		{2FFDA40B-16F1-43F7-AFA5-89DE48A2813D}.Release|x64.Build.0 = Release|x64
 		{2FFDA40B-16F1-43F7-AFA5-89DE48A2813D}.Release|x86.ActiveCfg = Release|Win32
 		{2FFDA40B-16F1-43F7-AFA5-89DE48A2813D}.Release|x86.Build.0 = Release|Win32
+		{DAB9B90D-B907-41F3-BD0F-AF5E60007828}.Debug|x64.ActiveCfg = Debug|x64
+		{DAB9B90D-B907-41F3-BD0F-AF5E60007828}.Debug|x64.Build.0 = Debug|x64
+		{DAB9B90D-B907-41F3-BD0F-AF5E60007828}.Debug|x86.ActiveCfg = Debug|Win32
+		{DAB9B90D-B907-41F3-BD0F-AF5E60007828}.Debug|x86.Build.0 = Debug|Win32
+		{DAB9B90D-B907-41F3-BD0F-AF5E60007828}.Release|x64.ActiveCfg = Release|x64
+		{DAB9B90D-B907-41F3-BD0F-AF5E60007828}.Release|x64.Build.0 = Release|x64
+		{DAB9B90D-B907-41F3-BD0F-AF5E60007828}.Release|x86.ActiveCfg = Release|Win32
+		{DAB9B90D-B907-41F3-BD0F-AF5E60007828}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
