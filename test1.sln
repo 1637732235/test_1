@@ -53,6 +53,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数组拷贝", "数组拷�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1018有规律的数列求和", "1018有规律的数列求和\1018有规律的数列求和.vcxproj", "{201EDEF2-FC31-42A1-8ACB-92E78C905732}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1019自由下落距离", "1019自由下落距离\1019自由下落距离.vcxproj", "{2FFDA40B-16F1-43F7-AFA5-89DE48A2813D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -261,6 +263,14 @@ Global
 		{201EDEF2-FC31-42A1-8ACB-92E78C905732}.Release|x64.Build.0 = Release|x64
 		{201EDEF2-FC31-42A1-8ACB-92E78C905732}.Release|x86.ActiveCfg = Release|Win32
 		{201EDEF2-FC31-42A1-8ACB-92E78C905732}.Release|x86.Build.0 = Release|Win32
+		{2FFDA40B-16F1-43F7-AFA5-89DE48A2813D}.Debug|x64.ActiveCfg = Debug|x64
+		{2FFDA40B-16F1-43F7-AFA5-89DE48A2813D}.Debug|x64.Build.0 = Debug|x64
+		{2FFDA40B-16F1-43F7-AFA5-89DE48A2813D}.Debug|x86.ActiveCfg = Debug|Win32
+		{2FFDA40B-16F1-43F7-AFA5-89DE48A2813D}.Debug|x86.Build.0 = Debug|Win32
+		{2FFDA40B-16F1-43F7-AFA5-89DE48A2813D}.Release|x64.ActiveCfg = Release|x64
+		{2FFDA40B-16F1-43F7-AFA5-89DE48A2813D}.Release|x64.Build.0 = Release|x64
+		{2FFDA40B-16F1-43F7-AFA5-89DE48A2813D}.Release|x86.ActiveCfg = Release|Win32
+		{2FFDA40B-16F1-43F7-AFA5-89DE48A2813D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
